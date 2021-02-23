@@ -1,0 +1,30 @@
+#clock  {
+  text-align: center;
+  font-family: arial;
+  font-size: 64px;
+  color: White;
+}
+
+.title{
+  text-align: center;
+  font-family: arial;
+  font-size: 64px;
+  color: #1D1E2C;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #1D1E2C;
+  border-radius: 4px;
+  max-height: 300px
+}
+
+body{
+  background-color: gray;
+}
+
+select{
+  padding: 10px;
+}
